@@ -1,7 +1,8 @@
-package com.adsed.itadakimasu
+package com.adsed.itadakimasu.ui.activities
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.adsed.itadakimasu.R
 
 class MainActivity : AppCompatActivity() {
 
